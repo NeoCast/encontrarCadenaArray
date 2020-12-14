@@ -1,0 +1,11 @@
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\bin\Debug\netcoreapp3.1\cadenaADN.exe
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\bin\Debug\netcoreapp3.1\cadenaADN.deps.json
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\bin\Debug\netcoreapp3.1\cadenaADN.runtimeconfig.json
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\bin\Debug\netcoreapp3.1\cadenaADN.runtimeconfig.dev.json
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\bin\Debug\netcoreapp3.1\cadenaADN.dll
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\bin\Debug\netcoreapp3.1\cadenaADN.pdb
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\obj\Debug\netcoreapp3.1\cadenaADN.csprojAssemblyReference.cache
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\obj\Debug\netcoreapp3.1\cadenaADN.AssemblyInfoInputs.cache
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\obj\Debug\netcoreapp3.1\cadenaADN.AssemblyInfo.cs
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\obj\Debug\netcoreapp3.1\cadenaADN.dll
+C:\Users\worklabxps3\source\repos\cadenaADN\cadenaADN\obj\Debug\netcoreapp3.1\cadenaADN.pdb
